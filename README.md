@@ -6,6 +6,5 @@ Github API tokenini auth_token değişkenine girin.
 Kodları çalıştırın ve seçim yapın.
 Kullanıcı bilgilerini almak için 1, kullanıcının repolarını almak için 2, yeni bir repository oluşturmak için 3 seçeneğini seçin. Çıkış yapmak için 4 seçeneğini kullanabilirsiniz.
 
-Gereksinimler
-
+Gereksinimler:
 requests kütüphanesi
