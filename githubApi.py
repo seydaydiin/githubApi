@@ -39,7 +39,7 @@ class Github:
         response = requests.post(f"{self.api_url}/user/repos", headers=headers, json=data)
         return response.json()"""
 
-auth_token ='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'
+auth_token ='YOUR-TOKEN'
 github = Github()
 
 while True:
